@@ -1,5 +1,5 @@
 
-# Contributing
+# Contributing [![Build Status](https://dev.azure.com/shivanjalikaname007/learn_azure_devops/_apis/build/status/devandsecops.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/shivanjalikaname007/learn_azure_devops/_build/latest?definitionId=1&branchName=master)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
